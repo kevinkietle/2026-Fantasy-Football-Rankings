@@ -1,0 +1,264 @@
+preseason_rank,player_name,season,past_season,player_age,team,team_qb,team_qb_season,team_qb_age,teammate,teammate_season,teammate_age
+1,Christian McCaffrey,2021,2020,25,CAR,Sam Darnold,2020,24,Royce Freeman,2020,25
+2,Dalvin Cook,2021,2020,26,MIN,Kirk Cousins,2020,33,Alexander Mattison,2020,22
+3,Alvin Kamara,2021,2020,26,NO,Jameis Winston,2020,27,Tony Jones,2020,24
+4,Derrick Henry,2021,2020,27,TEN,Ryan Tannehill,2020,33,D'Onta Foreman,2020,25
+5,Ezekiel Elliott,2021,2020,26,DAL,Dak Prescott,2020,28,Tony Pollard,2020,24
+6,Aaron Jones Sr.,2021,2020,27,GB,Aaron Rodgers,2020,37,AJ Dillon,2020,23
+7,Austin Ekeler,2021,2020,26,LAC,Justin Herbert,2020,23,Justin Jackson,2020,25
+8,Nick Chubb,2021,2020,25,CLE,Baker Mayfield,2020,26,Kareem Hunt,2020,26
+9,Saquon Barkley,2021,2020,24,NYG,Daniel Jones,2020,24,Devontae Booker,2020,29
+10,Jonathan Taylor,2021,2020,22,IND,Carson Wentz,2020,28,Nyheim Hines,2020,24
+11,Antonio Gibson,2021,2020,23,WAS,Taylor Heinicke,2020,28,J.D. McKissic,2020,29
+12,Joe Mixon,2021,2020,25,CIN,Joe Burrow,2020,24,Samaje Perine,2020,26
+13,Clyde Edwards-Helaire,2021,2020,22,KC,Patrick Mahomes,2020,25,Darrel Williams,2020,26
+14,David Montgomery,2021,2020,24,CHI,Andy Dalton,2020,34,Damien Williams,2020,28
+15,Chris Carson,2021,2020,26,SEA,Russell Wilson,2020,32,Rashaad Penny,2020,25
+16,James Robinson,2021,2020,23,JAX,C.J. Beathard,2020,28,Carlos Hyde,2020,30
+17,D'Andre Swift,2021,2020,22,DET,Jared Goff,2020,26,Jamaal Williams,2020,26
+18,Josh Jacobs,2021,2020,23,LV,Derek Carr,2020,30,Kenyan Drake,2020,27
+19,Miles Sanders,2021,2020,24,PHI,Jalen Hurts,2020,23,Boston Scott,2020,25
+20,Mike Davis,2021,2020,28,ATL,Matt Ryan,2020,36,Cordarrelle Patterson,2020,30
+21,Darrell Henderson Jr.,2021,2020,24,LAR,Matthew Stafford,2020,33,Sony Michel,2020,26
+22,Myles Gaskin,2021,2020,25,MIA,Tua Tagovailoa,2020,23,Malcolm Brown,2020,27
+23,Kareem Hunt,2021,2020,26,CLE,Baker Mayfield,2020,26,Nick Chubb,2020,25
+24,Damien Harris,2021,2020,24,NE,Brian Hoyer,2020,35,James White,2020,29
+25,Gus Edwards,2021,2020,26,BAL,Lamar Jackson,2020,24,Latavius Murray,2020,31
+26,Chase Edmonds,2021,2020,25,ARI,Kyler Murray,2020,24,James Conner,2020,26
+27,Raheem Mostert,2021,2020,29,SF,Jimmy Garoppolo,2020,29,Elijah Mitchell,2020,24
+28,Melvin Gordon III,2021,2020,28,DEN,Teddy Bridgewater,2020,28,Royce Freeman,2020,25
+29,Ronald Jones,2021,2020,24,TB,Tom Brady,2020,44,Leonard Fournette,2020,26
+30,Zack Moss,2021,2020,23,BUF,Josh Allen,2020,25,Devin Singletary,2020,24
+31,Leonard Fournette,2021,2020,26,TB,Tom Brady,2020,44,Ronald Jones,2020,24
+32,Jamaal Williams,2021,2020,26,DET,Jared Goff,2020,26,D'Andre Swift,2020,22
+33,Sony Michel,2021,2020,26,LAR,Matthew Stafford,2020,33,Darrell Henderson Jr.,2020,24
+34,James Conner,2021,2020,26,ARI,Kyler Murray,2020,24,Chase Edmonds,2020,25
+35,Tony Pollard,2021,2020,24,DAL,Dak Prescott,2020,28,Ezekiel Elliott,2020,26
+36,Kenyan Drake,2021,2020,27,LV,Derek Carr,2020,30,Josh Jacobs,2020,23
+37,Phillip Lindsay,2021,2020,27,HOU,Tyrod Taylor,2020,32,David Johnson,2020,29
+38,David Johnson,2021,2020,29,HOU,Tyrod Taylor,2020,32,Phillip Lindsay,2020,27
+39,Nyheim Hines,2021,2020,24,IND,Carson Wentz,2020,28,Jonathan Taylor,2020,22
+40,Giovani Bernard,2021,2020,29,TB,Tom Brady,2020,44,Ronald Jones,2020,24
+41,James White,2021,2020,29,NE,Brian Hoyer,2020,35,Damien Harris,2020,24
+42,Latavius Murray,2021,2020,31,BAL,Lamar Jackson,2020,24,Gus Edwards,2020,26
+43,Rashaad Penny,2021,2020,25,SEA,Russell Wilson,2020,32,Chris Carson,2020,26
+44,Tevin Coleman,2021,2020,28,NYJ,Josh Johnson,2020,34,Ty Johnson,2020,24
+45,Damien Williams,2021,2020,28,CHI,Andy Dalton,2020,34,David Montgomery,2020,24
+46,Darrel Williams,2021,2020,26,KC,Patrick Mahomes,2020,25,Clyde Edwards-Helaire,2020,22
+47,Mark Ingram II,2021,2020,31,HOU,Tyrod Taylor,2020,32,Phillip Lindsay,2020,27
+48,Justin Jackson,2021,2020,25,LAC,Justin Herbert,2020,23,Austin Ekeler,2020,26
+49,Devontae Booker,2021,2020,29,NYG,Daniel Jones,2020,24,Saquon Barkley,2020,24
+50,Tony Jones,2021,2020,24,NO,Jameis Winston,2020,27,Alvin Kamara,2020,26
+51,Marlon Mack,2021,2020,25,IND,Carson Wentz,2020,28,Jonathan Taylor,2020,22
+52,Jerick McKinnon,2021,2020,29,KC,Patrick Mahomes,2020,25,Clyde Edwards-Helaire,2020,22
+53,Malcolm Brown,2021,2020,27,MIA,Tua Tagovailoa,2020,23,Myles Gaskin,2020,25
+54,Carlos Hyde,2021,2020,30,JAX,C.J. Beathard,2020,28,James Robinson,2020,23
+1,Jonathan Taylor,2022,2021,23,IND,Matt Ryan,2021,37,Nyheim Hines,2021,25
+2,Christian McCaffrey,2022,2021,26,SF,Jimmy Garoppolo,2021,30,Elijah Mitchell,2021,24
+3,Austin Ekeler,2022,2021,27,LAC,Justin Herbert,2021,24,Sony Michel,2021,27
+4,Derrick Henry,2022,2021,28,TEN,Ryan Tannehill,2021,34,D'Onta Foreman,2021,26
+5,Najee Harris,2022,2021,24,PIT,Mitchell Trubisky,2021,28,Benny Snell Jr.,2021,24
+6,Dalvin Cook,2022,2021,27,MIN,Kirk Cousins,2021,34,Alexander Mattison,2021,24
+7,Joe Mixon,2022,2021,26,CIN,Joe Burrow,2021,25,Samaje Perine,2021,27
+8,Alvin Kamara,2022,2021,27,NO,Jameis Winston,2021,28,Tony Jones Jr.,2021,25
+9,D'Andre Swift,2022,2021,23,DET,Jared Goff,2021,27,Jamaal Williams,2021,27
+10,Aaron Jones Sr.,2022,2021,28,GB,Aaron Rodgers,2021,38,AJ Dillon,2021,24
+11,Saquon Barkley,2022,2021,25,NYG,Daniel Jones,2021,25,Matt Breida,2021,27
+12,Nick Chubb,2022,2021,26,CLE,Jacoby Brissett,2021,29,Kareem Hunt,2021,27
+13,Leonard Fournette,2022,2021,27,TB,Tom Brady,2021,45,Ke'Shawn Vaughn,2021,25
+14,Ezekiel Elliott,2022,2021,27,DAL,Dak Prescott,2021,29,Tony Pollard,2021,25
+15,James Conner,2022,2021,27,ARI,Kyler Murray,2021,25,Eno Benjamin,2021,24
+16,Cam Akers,2022,2021,23,LAR,Matthew Stafford,2021,34,Darrell Henderson Jr.,2021,25
+17,David Montgomery,2022,2021,25,CHI,Justin Fields,2021,23,Khalil Herbert,2021,23
+18,Elijah Mitchell,2022,2021,24,SF,Jimmy Garoppolo,2021,30,Christian McCaffrey,2021,26
+19,Josh Jacobs,2022,2021,24,LV,Derek Carr,2021,31,Kenyan Drake,2021,28
+20,AJ Dillon,2022,2021,24,GB,Aaron Rodgers,2021,38,Aaron Jones Sr.,2021,28
+21,Damien Harris,2022,2021,25,NE,Mac Jones,2021,24,Rhamondre Stevenson,2021,24
+22,Miles Sanders,2022,2021,25,PHI,Jalen Hurts,2021,24,Kenny Gainwell,2021,23
+23,Rashaad Penny,2022,2021,26,SEA,Geno Smith,2021,32,DeeJay Dallas,2021,24
+24,Kareem Hunt,2022,2021,27,CLE,Jacoby Brissett,2021,29,Nick Chubb,2021,26
+25,Chase Edmonds,2022,2021,26,MIA,Tua Tagovailoa,2021,24,Raheem Mostert,2021,30
+26,Tony Pollard,2022,2021,25,DAL,Dak Prescott,2021,29,Ezekiel Elliott,2021,27
+27,Cordarrelle Patterson,2022,2021,31,ATL,Marcus Mariota,2021,28,Damien Williams,2021,29
+28,Nyheim Hines,2022,2021,25,IND,Matt Ryan,2021,37,Jonathan Taylor,2021,23
+29,Raheem Mostert,2022,2021,30,MIA,Tua Tagovailoa,2021,24,Chase Edmonds,2021,26
+30,Kenny Gainwell,2022,2021,23,PHI,Jalen Hurts,2021,24,Miles Sanders,2021,25
+31,J.D. McKissic,2022,2021,29,WAS,Carson Wentz,2021,29,Antonio Gibson,2021,25
+32,Darrell Henderson Jr.,2022,2021,25,LAR,Matthew Stafford,2021,34,Cam Akers,2021,23
+33,Michael Carter,2022,2021,23,NYJ,Zach Wilson,2021,22,Ty Johnson,2021,25
+34,Jamaal Williams,2022,2021,27,DET,Jared Goff,2021,27,D'Andre Swift,2021,23
+35,Alexander Mattison,2022,2021,24,MIN,Kirk Cousins,2021,34,Dalvin Cook,2021,27
+1,Christian McCaffrey,2023,2022,27,SF,Brock Purdy,2022,23,Elijah Mitchell,2022,25
+2,Austin Ekeler,2023,2022,28,LAC,Justin Herbert,2022,25,Joshua Kelley,2022,25
+3,Saquon Barkley,2023,2022,26,NYG,Daniel Jones,2022,26,Matt Breida,2022,28
+4,Nick Chubb,2023,2022,27,CLE,Deshaun Watson,2022,28,Jerome Ford,2022,23
+5,Tony Pollard,2023,2022,26,DAL,Dak Prescott,2022,30,Brandin Cooks,2022,30
+6,Jonathan Taylor,2023,2022,24,IND,Gardner Minshew,2022,27,Zack Moss,2022,25
+7,Najee Harris,2023,2022,25,PIT,Kenny Pickett,2022,25,Jaylen Warren,2022,25
+8,Joe Mixon,2023,2022,27,CIN,Joe Burrow,2022,26,Chris Evans,2022,24
+9,Aaron Jones Sr.,2023,2022,28,GB,Jordan Love,2022,24,AJ Dillon,2022,25
+10,Kenneth Walker,2023,2022,22,SEA,Geno Smith,2022,33,DeeJay Dallas,2022,25
+11,Miles Sanders,2023,2022,26,CAR,Andy Dalton,2022,35,Chuba Hubbard,2022,25
+12,Alexander Mattison,2023,2022,25,MIN,Kirk Cousins,2022,35,Cam Akers,2022,24
+13,Dameon Pierce,2023,2022,22,HOU,Davis Mills,2022,24,Devin Singletary,2022,26
+14,Brandin Cooks,2023,2022,30,DAL,Dak Prescott,2022,30,Tony Pollard,2022,26
+15,Javonte Williams,2023,2022,23,DEN,Russell Wilson,2022,34,Samaje Perine,2022,28
+16,David Montgomery,2023,2022,26,DET,Jared Goff,2022,28,Jahmyr Gibbs,2022,21
+17,James Cook III,2023,2022,23,BUF,Josh Allen,2022,27,Damien Harris,2022,26
+18,Antonio Gibson,2023,2022,25,WAS,Sam Howell,2022,23,Brian Robinson Jr.,2022,24
+19,Isiah Pacheco,2023,2022,24,KC,Patrick Mahomes,2022,27,Jerick McKinnon,2022,31
+20,Jamaal Williams,2023,2022,28,NO,Derek Carr,2022,32,Alvin Kamara,2022,28
+21,Khalil Herbert,2023,2022,24,CHI,Justin Fields,2022,24,D'Onta Foreman,2022,27
+22,Rashaad Penny,2023,2022,27,PHI,Jalen Hurts,2022,25,D'Andre Swift,2022,24
+23,Samaje Perine,2023,2022,28,DEN,Russell Wilson,2022,34,Javonte Williams,2022,23
+24,Jakobi Meyers,2023,2022,27,LV,Jimmy Garoppolo,2022,31,Zamir White,2022,23
+25,Damien Harris,2023,2022,26,BUF,Josh Allen,2022,27,James Cook III,2022,23
+26,Jerick McKinnon,2023,2022,31,KC,Patrick Mahomes,2022,27,Isiah Pacheco,2022,24
+27,Elijah Mitchell,2023,2022,25,SF,Brock Purdy,2022,23,Christian McCaffrey,2022,27
+28,Jaylen Warren,2023,2022,25,PIT,Kenny Pickett,2022,25,Najee Harris,2022,25
+29,Odell Beckham Jr.,2023,2022,30,BAL,Lamar Jackson,2022,26,Gus Edwards,2022,28
+30,Zamir White,2023,2022,23,LV,Jimmy Garoppolo,2022,31,Jakobi Meyers,2022,27
+31,Jerome Ford,2023,2022,23,CLE,Deshaun Watson,2022,28,Nick Chubb,2022,27
+32,Clyde Edwards-Helaire,2023,2022,24,KC,Patrick Mahomes,2022,27,Isiah Pacheco,2022,24
+1,Christian McCaffrey,2024,2023,28,SF,Brock Purdy,2023,24,Elijah Mitchell,2023,26
+2,Breece Hall,2024,2023,23,NYJ,Aaron Rodgers,2023,40,Israel Abanikanda,2023,21
+3,Bijan Robinson,2024,2023,22,ATL,Kirk Cousins,2023,36,Tyler Allgeier,2023,24
+4,Jahmyr Gibbs,2024,2023,22,DET,Jared Goff,2023,29,David Montgomery,2023,27
+5,Jonathan Taylor,2024,2023,25,IND,Anthony Richardson,2023,22,Evan Hull,2023,23
+6,Saquon Barkley,2024,2023,27,PHI,Jalen Hurts,2023,26,Kenny Gainwell,2023,25
+7,Kyren Williams,2024,2023,23,LAR,Matthew Stafford,2023,36,Ronnie Rivers,2023,25
+8,Travis Etienne Jr.,2024,2023,25,JAX,Trevor Lawrence,2023,24,Tank Bigsby,2023,23
+9,Isiah Pacheco,2024,2023,25,KC,Patrick Mahomes,2023,28,Kareem Hunt,2023,29
+10,De'Von Achane,2024,2023,23,MIA,Tua Tagovailoa,2023,26,Raheem Mostert,2023,32
+11,Josh Jacobs,2024,2023,26,GB,Jordan Love,2023,25,AJ Dillon,2023,26
+12,James Cook III,2024,2023,24,BUF,Josh Allen,2023,28,Latavius Murray,2023,34
+13,Joe Mixon,2024,2023,28,HOU,C.J. Stroud,2023,22,Dameon Pierce,2023,23
+14,Kenneth Walker,2024,2023,23,SEA,Geno Smith,2023,34,Zach Charbonnet,2023,23
+15,Alvin Kamara,2024,2023,29,NO,Derek Carr,2023,33,Jamaal Williams,2023,29
+16,Rachaad White,2024,2023,25,TB,Baker Mayfield,2023,29,Sean Tucker,2023,23
+17,James Conner,2024,2023,29,ARI,Kyler Murray,2023,27,Emari Demercado,2023,24
+18,Aaron Jones Sr.,2024,2023,29,MIN,Sam Darnold,2023,27,Ty Chandler,2023,24
+19,David Montgomery,2024,2023,27,DET,Jared Goff,2023,29,Jahmyr Gibbs,2023,22
+20,D'Andre Swift,2024,2023,25,CHI,Tyson Bagent,2023,24,Roschon Johnson,2023,22
+21,Rhamondre Stevenson,2024,2023,26,NE,Jacoby Brissett,2023,31,Antonio Gibson,2023,26
+22,Raheem Mostert,2024,2023,32,MIA,Tua Tagovailoa,2023,26,De'Von Achane,2023,23
+23,Najee Harris,2024,2023,26,PIT,Russell Wilson,2023,35,Jaylen Warren,2023,25
+24,Zamir White,2024,2023,24,LV,Gardner Minshew,2023,28,Alexander Mattison,2023,26
+25,Javonte Williams,2024,2023,24,DEN,Jarrett Stidham,2023,28,Jaleel McLaughlin,2023,24
+26,Jaylen Warren,2024,2023,25,PIT,Russell Wilson,2023,35,Najee Harris,2023,26
+27,Tony Pollard,2024,2023,27,TEN,Will Levis,2023,25,Tyjae Spears,2023,23
+28,Devin Singletary,2024,2023,26,NYG,Daniel Jones,2023,27,Eric Gray,2023,24
+29,Austin Ekeler,2024,2023,29,WAS,Marcus Mariota,2023,30,Brian Robinson Jr.,2023,25
+30,Chase Brown,2024,2023,24,CIN,Joe Burrow,2023,27,Zack Moss,2023,27
+31,Ezekiel Elliott,2024,2023,29,DAL,Dak Prescott,2023,31,Rico Dowdle,2023,26
+32,Jerome Ford,2024,2023,24,CLE,Deshaun Watson,2023,28,Nick Chubb,2023,29
+33,Gus Edwards,2024,2023,29,LAC,Justin Herbert,2023,26,J.K. Dobbins,2023,29
+34,Chuba Hubbard,2024,2023,25,CAR,Bryce Young,2023,23,Miles Sanders,2023,27
+35,Ty Chandler,2024,2023,24,MIN,Sam Darnold,2023,27,Aaron Jones Sr.,2023,29
+36,Zach Charbonnet,2024,2023,23,SEA,Geno Smith,2023,34,Kenneth Walker,2023,23
+37,Khalil Herbert,2024,2023,25,CHI,Tyson Bagent,2023,24,D'Andre Swift,2023,25
+38,Elijah Mitchell,2024,2023,26,SF,Brock Purdy,2023,24,Christian McCaffrey,2023,28
+39,Alexander Mattison,2024,2023,26,LV,Gardner Minshew,2023,28,Zamir White,2023,24
+1,Bijan Robinson,2025,2024,23,ATL,Michael Penix Jr.,2024,25,Tyler Allgeier,2024,25
+2,Jahmyr Gibbs,2025,2024,23,DET,Jared Goff,2024,30,David Montgomery,2024,28
+3,Saquon Barkley,2025,2024,28,PHI,Jalen Hurts,2024,27,Kenny Gainwell,2024,26
+4,Christian McCaffrey,2025,2024,29,SF,Brock Purdy,2024,25,Isaac Guerendo,2024,24
+5,De'Von Achane,2025,2024,24,MIA,Tua Tagovailoa,2024,27,Jaylen Wright,2024,22
+6,Jonathan Taylor,2025,2024,26,IND,Daniel Jones,2024,28,Trey Sermon,2024,25
+7,Derrick Henry,2025,2024,31,BAL,Lamar Jackson,2024,28,Justice Hill,2024,26
+8,Josh Jacobs,2025,2024,27,GB,Jordan Love,2024,26,MarShawn Lloyd,2024,24
+9,Kyren Williams,2025,2024,24,LAR,Matthew Stafford,2024,37,Blake Corum,2024,24
+10,Chase Brown,2025,2024,25,CIN,Joe Burrow,2024,28,Zack Moss,2024,28
+11,James Cook III,2025,2024,25,BUF,Josh Allen,2024,29,Ray Davis,2024,25
+12,Breece Hall,2025,2024,24,NYJ,Justin Fields,2024,26,Braelon Allen,2024,21
+13,Bucky Irving,2025,2024,23,TB,Baker Mayfield,2024,30,Rachaad White,2024,26
+14,Kenneth Walker,2025,2024,24,SEA,Sam Darnold,2024,28,Zach Charbonnet,2024,24
+15,Alvin Kamara,2025,2024,30,NO,Spencer Rattler,2024,24,Jamaal Williams,2024,30
+16,Joe Mixon,2025,2024,29,HOU,C.J. Stroud,2024,23,Dameon Pierce,2024,24
+17,Aaron Jones Sr.,2025,2024,30,MIN,JJ McCarthy,2024,22,Jordan Mason,2024,26
+18,James Conner,2025,2024,30,ARI,Kyler Murray,2024,28,Trey Benson,2024,23
+19,David Montgomery,2025,2024,28,DET,Jared Goff,2024,30,Jahmyr Gibbs,2024,23
+20,Isiah Pacheco,2025,2024,26,KC,Patrick Mahomes,2024,29,Kareem Hunt,2024,30
+21,Rachaad White,2025,2024,26,TB,Baker Mayfield,2024,30,Bucky Irving,2024,23
+22,Javonte Williams,2025,2024,25,DAL,Dak Prescott,2024,32,Miles Sanders,2024,28
+23,Tony Pollard,2025,2024,28,TEN,Will Levis,2024,26,Tyjae Spears,2024,24
+24,Chuba Hubbard,2025,2024,26,CAR,Bryce Young,2024,24,Rico Dowdle,2024,27
+25,Zach Charbonnet,2025,2024,24,SEA,Sam Darnold,2024,28,Kenneth Walker,2024,24
+26,Najee Harris,2025,2024,27,LAC,Justin Herbert,2024,27,Kimani Vidal,2024,23
+27,J.K. Dobbins,2025,2024,27,DEN,Bo Nix,2024,25,Jaleel McLaughlin,2024,25
+28,Jaylen Warren,2025,2024,26,PIT,Aaron Rodgers,2024,41,Cordarrelle Patterson,2024,34
+29,Rhamondre Stevenson,2025,2024,27,NE,Drake Maye,2024,22,Antonio Gibson,2024,27
+30,Travis Etienne Jr.,2025,2024,26,JAX,Trevor Lawrence,2024,25,Tank Bigsby,2024,23
+31,Brian Robinson Jr.,2025,2024,26,WAS,Jayden Daniels,2024,25,Austin Ekeler,2024,30
+32,Tyrone Tracy Jr.,2025,2024,24,NYG,Russell Wilson,2024,36,Devin Singletary,2024,27
+33,Jordan Mason,2025,2024,26,MIN,JJ McCarthy,2024,22,Aaron Jones Sr.,2024,30
+34,Ray Davis,2025,2024,25,BUF,Josh Allen,2024,29,James Cook III,2024,25
+35,Austin Ekeler,2025,2024,30,WAS,Jayden Daniels,2024,25,Brian Robinson Jr.,2024,26
+36,D'Andre Swift,2025,2024,26,CHI,Caleb Williams,2024,23,Roschon Johnson,2024,23
+37,Zamir White,2025,2024,25,LV,Geno Smith,2024,34,Alexander Mattison,2024,27
+38,Tyjae Spears,2025,2024,24,TEN,Will Levis,2024,26,Tony Pollard,2024,28
+39,Blake Corum,2025,2024,24,LAR,Matthew Stafford,2024,37,Kyren Williams,2024,24
+40,Jerome Ford,2025,2024,25,CLE,Joe Flacco,2024,40,Nick Chubb,2024,30
+41,Rico Dowdle,2025,2024,27,CAR,Bryce Young,2024,24,Chuba Hubbard,2024,26
+42,Roschon Johnson,2025,2024,23,CHI,Caleb Williams,2024,23,D'Andre Swift,2024,26
+43,Ty Chandler,2025,2024,25,MIN,JJ McCarthy,2024,22,Aaron Jones Sr.,2024,30
+44,Trey Benson,2025,2024,23,ARI,Kyler Murray,2024,28,James Conner,2024,30
+45,Jaylen Wright,2025,2024,22,MIA,Tua Tagovailoa,2024,27,De'Von Achane,2024,24
+46,Kimani Vidal,2025,2024,23,LAC,Justin Herbert,2024,27,Najee Harris,2024,27
+47,Justice Hill,2025,2024,26,BAL,Lamar Jackson,2024,28,Derrick Henry,2024,31
+48,Tank Bigsby,2025,2024,23,JAX,Trevor Lawrence,2024,25,Travis Etienne Jr.,2024,26
+49,Kareem Hunt,2025,2024,30,KC,Patrick Mahomes,2024,29,Isiah Pacheco,2024,26
+50,Samaje Perine,2025,2024,30,CIN,Joe Burrow,2024,28,Chase Brown,2024,25
+51,Antonio Gibson,2025,2024,27,NE,Drake Maye,2024,22,Rhamondre Stevenson,2024,27
+52,MarShawn Lloyd,2025,2024,24,GB,Jordan Love,2024,26,Josh Jacobs,2024,27
+1,Jahmyr Gibbs,2026,2025,24,DET,Jared Goff,2025,31,Isiah Pacheco,2025,27
+2,Bijan Robinson,2026,2025,24,ATL,Michael Penix Jr.,2025,26,Brian Robinson Jr.,2025,27
+3,Christian McCaffrey,2026,2025,30,SF,Brock Purdy,2025,26,Isaac Guerendo,2025,25
+4,Jonathan Taylor,2026,2025,27,IND,Daniel Jones,2025,29,DJ Giddens,2025,22
+5,Ashton Jeanty,2026,2025,23,LV,Kirk Cousins,2025,38,Dylan Laube,2025,27
+6,De'Von Achane,2026,2025,25,MIA,Malik Willis,2025,28,Ollie Gordon,2025,22
+7,Chase Brown,2026,2025,26,CIN,Joe Burrow,2025,29,Samaje Perine,2025,31
+8,James Cook III,2026,2025,26,BUF,Josh Allen,2025,30,Ray Davis,2025,26
+9,Derrick Henry,2026,2025,32,BAL,Lamar Jackson,2025,29,Justice Hill,2025,27
+10,Saquon Barkley,2026,2025,29,PHI,Jalen Hurts,2025,28,Tank Bigsby,2025,24
+11,Omarion Hampton,2026,2025,21,LAC,Justin Herbert,2025,28,Kimani Vidal,2025,24
+12,Josh Jacobs,2026,2025,28,GB,Jordan Love,2025,27,Emanuel Wilson,2025,25
+13,Kenneth Walker,2026,2025,25,KC,Patrick Mahomes,2025,30,Emari Demercado,2025,25
+14,Breece Hall,2026,2025,25,NYJ,Geno Smith,2025,35,Braelon Allen,2025,22
+15,Kyren Williams,2026,2025,25,LAR,Matthew Stafford,2025,38,Blake Corum,2025,25
+16,Javonte Williams,2026,2025,26,DAL,Dak Prescott,2025,33,Jaydon Blue,2025,22
+17,Travis Etienne Jr.,2026,2025,27,NO,Tyler Shough,2025,26,Alvin Kamara,2025,31
+18,Cam Skattebo,2026,2025,23,NYG,Jaxson Dart,2025,23,Tyrone Tracy Jr.,2025,25
+19,Bucky Irving,2026,2025,24,TB,Baker Mayfield,2025,31,Kenny Gainwell,2025,27
+20,Quinshon Judkins,2026,2025,22,CLE,Shedeur Sanders,2025,24,Dylan Sampson,2025,21
+21,D'Andre Swift,2026,2025,27,CHI,Caleb Williams,2025,24,Kyle Monangai,2025,23
+22,Bhayshul Tuten,2026,2025,23,JAX,Trevor Lawrence,2025,26,Chris Rodriguez Jr.,2025,26
+23,Tony Pollard,2026,2025,29,TEN,Cam Ward,2025,24,Tyjae Spears,2025,25
+24,David Montgomery,2026,2025,29,HOU,C.J. Stroud,2025,24,Woody Marks,2025,23
+25,Rico Dowdle,2026,2025,28,PIT,Aaron Rodgers,2025,42,Jaylen Warren,2025,27
+26,Jaylen Warren,2026,2025,27,PIT,Aaron Rodgers,2025,42,Rico Dowdle,2025,28
+27,Rhamondre Stevenson,2026,2025,28,NE,Drake Maye,2025,23,TreVeyon Henderson,2025,22
+28,Chuba Hubbard,2026,2025,27,CAR,Bryce Young,2025,25,Trevor Etienne,2025,22
+29,Kenny Gainwell,2026,2025,27,TB,Baker Mayfield,2025,31,Bucky Irving,2025,24
+30,Aaron Jones Sr.,2026,2025,31,MIN,Kyler Murray,2025,29,Jordan Mason,2025,27
+31,J.K. Dobbins,2026,2025,28,DEN,Bo Nix,2025,26,RJ Harvey,2025,25
+32,Rachaad White,2026,2025,27,WAS,Jayden Daniels,2025,26,Jacory Croskey-Merritt,2025,24
+33,Kyle Monangai,2026,2025,23,CHI,Caleb Williams,2025,24,D'Andre Swift,2025,27
+34,RJ Harvey,2026,2025,25,DEN,Bo Nix,2025,26,J.K. Dobbins,2025,28
+35,Jonathon Brooks,2026,2025,23,CAR,Bryce Young,2025,25,Chuba Hubbard,2025,27
+36,Blake Corum,2026,2025,25,LAR,Matthew Stafford,2025,38,Kyren Williams,2025,25
+37,Tyjae Spears,2026,2025,25,TEN,Cam Ward,2025,24,Tony Pollard,2025,29
+38,Alvin Kamara,2026,2025,31,NO,Tyler Shough,2025,26,Travis Etienne Jr.,2025,27
+39,Jacory Croskey-Merritt,2026,2025,25,WAS,Jayden Daniels,2025,26,Rachaad White,2025,27
+40,Zach Charbonnet,2026,2025,25,SEA,Sam Darnold,2025,29,Emanuel Wilson,2025,27
+41,Isiah Pacheco,2026,2025,27,DET,Jared Goff,2025,31,Jahmyr Gibbs,2025,24
+43,Tank Bigsby,2026,2025,24,PHI,Jalen Hurts,2025,28,Saquon Barkley,2025,29
+44,Tyrone Tracy Jr.,2026,2025,25,NYG,Jaxson Dart,2025,23,Cam Skattebo,2025,23
+45,Ray Davis,2026,2025,26,BUF,Josh Allen,2025,30,James Cook III,2025,26
+46,Samaje Perine,2026,2025,31,CIN,Joe Burrow,2025,29,Chase Brown,2025,26
+47,Woody Marks,2026,2025,23,HOU,C.J. Stroud,2025,24,David Montgomery,2025,29
+48,Kimani Vidal,2026,2025,24,LAC,Justin Herbert,2025,28,Omarion Hampton,2025,21
+49,AJ Dillon,2026,2025,28,CAR,Bryce Young,2025,25,Chuba Hubbard,2025,27
+50,Brian Robinson Jr.,2026,2025,27,ATL,Michael Penix Jr.,2025,26,Bijan Robinson,2025,24
+51,James Conner,2026,2025,31,ARI,Jacoby Brissett,2025,33,Trey Benson,2025,24
+52,Ty Johnson,2026,2025,28,BUF,Josh Allen,2025,30,James Cook III,2025,26
