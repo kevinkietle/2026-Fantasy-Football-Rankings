@@ -233,25 +233,26 @@ preseason_rank,player_name,season,past_season,player_age,team,team_qb,team_qb_se
 20,Quinshon Judkins,2026,2025,22,CLE,Shedeur Sanders,2025,24,Dylan Sampson,2025,21
 21,D'Andre Swift,2026,2025,27,CHI,Caleb Williams,2025,24,Kyle Monangai,2025,23
 22,Bhayshul Tuten,2026,2025,23,JAX,Trevor Lawrence,2025,26,Chris Rodriguez Jr.,2025,26
-23,Tony Pollard,2026,2025,29,TEN,Cam Ward,2025,24,Tyjae Spears,2025,25
-24,David Montgomery,2026,2025,29,HOU,C.J. Stroud,2025,24,Woody Marks,2025,23
-25,Rico Dowdle,2026,2025,28,PIT,Aaron Rodgers,2025,42,Jaylen Warren,2025,27
-26,Jaylen Warren,2026,2025,27,PIT,Aaron Rodgers,2025,42,Rico Dowdle,2025,28
-27,Rhamondre Stevenson,2026,2025,28,NE,Drake Maye,2025,23,TreVeyon Henderson,2025,22
-28,Chuba Hubbard,2026,2025,27,CAR,Bryce Young,2025,25,Trevor Etienne,2025,22
-29,Kenny Gainwell,2026,2025,27,TB,Baker Mayfield,2025,31,Bucky Irving,2025,24
-30,Aaron Jones Sr.,2026,2025,31,MIN,Kyler Murray,2025,29,Jordan Mason,2025,27
-31,J.K. Dobbins,2026,2025,28,DEN,Bo Nix,2025,26,RJ Harvey,2025,25
-32,Rachaad White,2026,2025,27,WAS,Jayden Daniels,2025,26,Jacory Croskey-Merritt,2025,24
-33,Kyle Monangai,2026,2025,23,CHI,Caleb Williams,2025,24,D'Andre Swift,2025,27
-34,RJ Harvey,2026,2025,25,DEN,Bo Nix,2025,26,J.K. Dobbins,2025,28
-35,Jonathon Brooks,2026,2025,23,CAR,Bryce Young,2025,25,Chuba Hubbard,2025,27
-36,Blake Corum,2026,2025,25,LAR,Matthew Stafford,2025,38,Kyren Williams,2025,25
-37,Tyjae Spears,2026,2025,25,TEN,Cam Ward,2025,24,Tony Pollard,2025,29
-38,Alvin Kamara,2026,2025,31,NO,Tyler Shough,2025,26,Travis Etienne Jr.,2025,27
-39,Jacory Croskey-Merritt,2026,2025,25,WAS,Jayden Daniels,2025,26,Rachaad White,2025,27
-40,Zach Charbonnet,2026,2025,25,SEA,Sam Darnold,2025,29,Emanuel Wilson,2025,27
-41,Isiah Pacheco,2026,2025,27,DET,Jared Goff,2025,31,Jahmyr Gibbs,2025,24
+23,TreVeyon Henderson,2026,2025,22,NE,Drake Maye,2025,23,Rhamondre Stevenson,2025,28
+24,Tony Pollard,2026,2025,29,TEN,Cam Ward,2025,24,Tyjae Spears,2025,25
+25,David Montgomery,2026,2025,29,HOU,C.J. Stroud,2025,24,Woody Marks,2025,23
+26,Rico Dowdle,2026,2025,28,PIT,Aaron Rodgers,2025,42,Jaylen Warren,2025,27
+27,Jaylen Warren,2026,2025,27,PIT,Aaron Rodgers,2025,42,Rico Dowdle,2025,28
+28,Rhamondre Stevenson,2026,2025,28,NE,Drake Maye,2025,23,TreVeyon Henderson,2025,22
+29,Chuba Hubbard,2026,2025,27,CAR,Bryce Young,2025,25,Trevor Etienne,2025,22
+30,Kenny Gainwell,2026,2025,27,TB,Baker Mayfield,2025,31,Bucky Irving,2025,24
+31,Aaron Jones Sr.,2026,2025,31,MIN,Kyler Murray,2025,29,Jordan Mason,2025,27
+32,J.K. Dobbins,2026,2025,28,DEN,Bo Nix,2025,26,RJ Harvey,2025,25
+33,Rachaad White,2026,2025,27,WAS,Jayden Daniels,2025,26,Jacory Croskey-Merritt,2025,24
+34,Kyle Monangai,2026,2025,23,CHI,Caleb Williams,2025,24,D'Andre Swift,2025,27
+35,RJ Harvey,2026,2025,25,DEN,Bo Nix,2025,26,J.K. Dobbins,2025,28
+36,Jonathon Brooks,2026,2025,23,CAR,Bryce Young,2025,25,Chuba Hubbard,2025,27
+37,Blake Corum,2026,2025,25,LAR,Matthew Stafford,2025,38,Kyren Williams,2025,25
+38,Tyjae Spears,2026,2025,25,TEN,Cam Ward,2025,24,Tony Pollard,2025,29
+39,Alvin Kamara,2026,2025,31,NO,Tyler Shough,2025,26,Travis Etienne Jr.,2025,27
+40,Jacory Croskey-Merritt,2026,2025,25,WAS,Jayden Daniels,2025,26,Rachaad White,2025,27
+41,Zach Charbonnet,2026,2025,25,SEA,Sam Darnold,2025,29,Emanuel Wilson,2025,27
+42,Isiah Pacheco,2026,2025,27,DET,Jared Goff,2025,31,Jahmyr Gibbs,2025,24
 43,Tank Bigsby,2026,2025,24,PHI,Jalen Hurts,2025,28,Saquon Barkley,2025,29
 44,Tyrone Tracy Jr.,2026,2025,25,NYG,Jaxson Dart,2025,23,Cam Skattebo,2025,23
 45,Ray Davis,2026,2025,26,BUF,Josh Allen,2025,30,James Cook III,2025,26
